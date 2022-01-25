@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexandru-ghibea
+- 👋 Hi, I’m @alexandru
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on learning python/small projects that would help me learn
