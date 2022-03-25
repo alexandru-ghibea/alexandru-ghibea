@@ -1,5 +1,6 @@
 """
 Input any password and check if hacked
+Use of pwnedpasswords.com Api
 """
 import requests
 import hashlib
