@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on small projects that would help me learn
+- 💞️ I'm searching for opportunities to work on projects that will help me learn.
 
 <!---
 alexandru-ghibea/alexandru-ghibea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
